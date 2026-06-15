@@ -15,3 +15,5 @@
 #Developed a Python application that fetches real-time data from a public API, such as OpenWeatherMap, and converts the data into meaningful visualizations using Mathplotlib or Seaborn. This project helps in understanding API integration, data ptocessing, and presenting information through charts and graphs for better analysis.
 
 #OUTPUT
+
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/bdafc1be-ec50-4b4d-b5df-f9e8c471c61e" />
